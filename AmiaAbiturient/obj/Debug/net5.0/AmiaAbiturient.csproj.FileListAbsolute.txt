@@ -1,0 +1,16 @@
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\AmiaAbiturient.exe
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\AmiaAbiturient.deps.json
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\AmiaAbiturient.runtimeconfig.json
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\AmiaAbiturient.runtimeconfig.dev.json
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\AmiaAbiturient.dll
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\ref\AmiaAbiturient.dll
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\bin\Debug\net5.0\AmiaAbiturient.pdb
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.csproj.AssemblyReference.cache
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.AssemblyInfoInputs.cache
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.AssemblyInfo.cs
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.csproj.CoreCompileInputs.cache
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.dll
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\ref\AmiaAbiturient.dll
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.pdb
+D:\Abiturient\AMIA\AmiaAbiturient\AmiaAbiturient\obj\Debug\net5.0\AmiaAbiturient.genruntimeconfig.cache
